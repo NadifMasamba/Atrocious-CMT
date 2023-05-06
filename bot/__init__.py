@@ -499,14 +499,14 @@ SHOW_LIMITS_IN_STATS = SHOW_LIMITS_IN_STATS.lower() == 'true'
 START_BTN1_NAME = environ.get('START_BTN1_NAME', '')
 START_BTN1_URL = environ.get('START_BTN1_URL', '')
 if len(START_BTN1_NAME) == 0 or len(START_BTN1_URL) == 0:
-    START_BTN1_NAME = 'Master'
-    START_BTN1_URL = 'https://t.me/ItsBitDefender'
+    START_BTN1_NAME = 'Website'
+    START_BTN1_URL = 'https://www.comelmuewa84.eu.org'
 
 START_BTN2_NAME = environ.get('START_BTN2_NAME', '')
 START_BTN2_URL = environ.get('START_BTN2_URL', '')
 if len(START_BTN2_NAME) == 0 or len(START_BTN2_URL) == 0:
     START_BTN2_NAME = 'Mirror Group'
-    START_BTN2_URL = 'https://t.me/+yw0A-x4cYBphZmJl'
+    START_BTN2_URL = 'https://t.me/CollectionMovie_Subtitles'
 
 BUTTON_FOUR_NAME = environ.get('BUTTON_FOUR_NAME', '')
 BUTTON_FOUR_URL = environ.get('BUTTON_FOUR_URL', '')
@@ -582,19 +582,19 @@ if len(AUTHOR_NAME) == 0:
 
 AUTHOR_URL = environ.get('AUTHOR_URL', '')
 if len(AUTHOR_URL) == 0:
-    AUTHOR_URL = 'https://t.me/Atrocious_Bot_Update'
+    AUTHOR_URL = 'https://www.comelmuewa84.eu.org'
 
 TITLE_NAME = environ.get('TITLE_NAME', '')
 if len(TITLE_NAME) == 0:
-    TITLE_NAME = 'Atrocious'
+    TITLE_NAME = 'Pea Masamba'
 
 GD_INFO = environ.get('GD_INFO', '')
 if len(GD_INFO) == 0:
-    GD_INFO = 'Uploaded By Atrocious Mirror Bot'
+    GD_INFO = 'Uploaded By Pea Masamba Mirror Bot'
 
 CREDIT_NAME = environ.get('CREDIT_NAME', '')
 if len(CREDIT_NAME) == 0:
-    CREDIT_NAME = 'Atrocious'
+    CREDIT_NAME = 'Pea Masamba'
 
 NAME_FONT = environ.get('NAME_FONT', '')
 if len(NAME_FONT) == 0:
@@ -618,7 +618,7 @@ if len(IMAGE_URL) == 0:
 
 TIMEZONE = environ.get('TIMEZONE', '')
 if len(TIMEZONE) == 0:
-    TIMEZONE = 'Asia/Kolkata'
+    TIMEZONE = 'Asia/Makassar'
 
 PIXABAY_API_KEY = environ.get('PIXABAY_API_KEY', '')
 if len(PIXABAY_API_KEY) == 0:
@@ -664,7 +664,7 @@ if len(BASE_URL) == 0:
 
 UPSTREAM_REPO = environ.get('UPSTREAM_REPO', '')
 if len(UPSTREAM_REPO) == 0:
-   UPSTREAM_REPO = 'https://github.com/SN-Abdullah-Al-Noman/Atrocious_Mirror'
+   UPSTREAM_REPO = 'https://github.com/NadifMasamba/Atrocious-CMT'
 
 UPSTREAM_BRANCH = environ.get('UPSTREAM_BRANCH', '')
 if len(UPSTREAM_BRANCH) == 0:
